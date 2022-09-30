@@ -20,7 +20,7 @@ Researched answer:
 
 3. Ruby has an implicit return. What does that mean?
 
-Your answer:
+Your answer: Implicit return is when you get a return without actually putting a "return" in your code. 
 
 Researched answer:
 
