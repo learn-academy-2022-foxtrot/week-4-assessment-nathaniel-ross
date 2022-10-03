@@ -93,3 +93,8 @@ palin_string(palindrome_tester2)
 palin_string(palindrome_tester3)
 # output: "Rotator is a palindrome"
 
+nums = [1,2,3]
+
+nums.each do |value|
+    p value *5
+end
